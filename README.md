@@ -78,6 +78,8 @@ The recommendations are not personalized because every user receives the same ra
 ├── data/
 │   └── ml-latest-small.zip
 ├── images/
+│   ├── github_notebook_output.png
+│   ├── github_repository_home.png
 │   ├── rating_distribution.png
 │   ├── top_genres.png
 │   └── top10_recommendations.png
